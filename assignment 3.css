@@ -1,0 +1,64 @@
+.bread{
+    background-color: antiquewhite;
+    border: 100px;
+    display: flex;
+    flex-direction: row;
+    padding: 50px;
+    border-radius: 50px;
+     width: 500px;
+    height: 100px;
+}
+.bread info{
+    border: ;
+    padding: 20px;
+    align-items: center;
+}
+.bread img{
+    border-radius: 30px;
+     width:130px;
+      height :130px;
+}
+.coffee{
+    background-color: antiquewhite;
+    border: 100px;
+    display: flex;
+    flex-direction: row;
+    padding: 50px;
+    border-radius: 50px;
+     width: 500px;
+    height: 100px;
+}
+.coffee info{
+    border: ;
+    padding: 20px;
+    align-items: center;
+}
+.coffee img{
+    border-radius: 30px;
+     width:130px;
+      height :130px;
+}
+.shakes{
+    background-color: antiquewhite;
+    border: 100px;
+    display: flex;
+    flex-direction: row;
+    padding: 50px;
+    border-radius: 50px;
+    width: 500px;
+    height: 100px;
+}
+
+
+
+.shakes info{
+    border: ;
+    padding: 30px;
+    align-items: center;
+}
+.shakes img{
+    border-radius: 30px;
+     width:130px;
+      height :130px;
+}
+

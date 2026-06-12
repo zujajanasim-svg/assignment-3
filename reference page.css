@@ -1,0 +1,72 @@
+body{
+    background-color: aliceblue;
+    padding-left: 200px;
+    box-shadow: 600px;
+    display: inline;
+    font: optional;
+}
+
+
+
+
+h4{
+    color: #3bb2f6;
+}
+.nav{
+    
+    padding: 0%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    button-color:#3bb2f6 ;
+    
+}
+.card1{
+    background-color: #f1f5f9;
+    border-radius: 10px;
+    padding-bottom: 0;
+    width: 400px;
+    height: 200px; 
+    
+}
+.card1 info{
+    padding: 100px;
+    align-items: center;
+
+}
+.hero sec{
+    align-items: center;
+    padding-left: 300px;
+    height: 4px;
+}
+.left{
+    padding-right: 50ox;
+}
+.right{
+    padding-right: 30px;
+    display: flex;
+    justify-content: space-between;
+    gap: 50px;
+    
+}
+.right button{
+    border-radius: 5px;
+    background-color: #3bb2f6;
+    width: 100px;
+    height: 50px;
+}
+.box1{
+    box-shadow: 100px;
+    padding: 30px;
+    display: flex;
+
+}
+.box1 img{
+    width: 100px;
+    alignment-baseline: left;
+}
+.box2 button{
+    background-color: #3bb2f6;
+    width: 100px;
+    height: 50px;
+}
